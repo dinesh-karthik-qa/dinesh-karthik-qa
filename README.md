@@ -17,7 +17,7 @@ Coming soon, I'm adding new projects regularly:
 - Web3 testing checklist
 
 ## 🎓 Education
-B.Sc IT, University of Mumbai
+B.Sc IT Graduate, University of Mumbai
 
 ## 📍 Location
 Mumbai, India
